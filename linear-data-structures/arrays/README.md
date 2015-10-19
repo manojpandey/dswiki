@@ -1,0 +1,22 @@
+#Arrays
+
+- Array
+- Bit array
+- Bit field
+- Bitboard
+- Bitmap
+- Circular buffer
+- Control table
+- Image
+- Dynamic array
+- Gap buffer
+- Hashed array tree
+- Heightmap
+- Lookup table
+- Matrix
+- Parallel array
+- Sorted array
+- Sparse array
+- Sparse matrix
+- Iliffe vector
+- Variable-length array

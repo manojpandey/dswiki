@@ -5,7 +5,7 @@
 ##Linear data structures
 ###Arrays
 
-- Array
+- [Array](https://github.com/manojpandey/dswiki/blob/master/linear-data-structures/arrays/array.cpp)
 - Bit array
 - Bit field
 - Bitboard
@@ -28,7 +28,7 @@
 
 ###Lists
 - Doubly linked list
-- Array list
+- [Array list](https://github.com/manojpandey/dswiki/blob/master/linear-data-structures/lists/array-list.cpp)
 - Linked list
 - Self-organizing list
 - Skip list

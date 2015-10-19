@@ -13,7 +13,7 @@
 - Circular buffer
 - Control table
 - Image
-- Dynamic array
+- [Dynamic array](https://github.com/manojpandey/dswiki/blob/master/linear-data-structures/lists/array-list.cpp)
 - Gap buffer
 - Hashed array tree
 - Heightmap

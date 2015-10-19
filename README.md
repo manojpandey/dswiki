@@ -18,9 +18,9 @@
 - Hashed array tree
 - Heightmap
 - Lookup table
-- Matrix
-- Parallel array
-- Sorted array
+- [Matrix](https://github.com/manojpandey/dswiki/blob/master/linear-data-structures/arrays/matrix.cpp)
+- [Parallel array](https://github.com/manojpandey/dswiki/blob/master/linear-data-structures/arrays/parallel-array.cpp)
+- [Sorted array](https://github.com/manojpandey/dswiki/blob/master/linear-data-structures/arrays/sorted-array.cpp)
 - Sparse array
 - Sparse matrix
 - Iliffe vector

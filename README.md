@@ -1,3 +1,7 @@
+#DS Wiki
+###### Implementations from - "List of data structures: Wikipedia"
+
+
 ##Linear data structures
 ###Arrays
 

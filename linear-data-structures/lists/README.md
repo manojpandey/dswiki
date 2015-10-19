@@ -1,0 +1,13 @@
+#Lists
+- Doubly linked list
+- Array list
+- Linked list
+- Self-organizing list
+- Skip list
+- Unrolled linked list
+- VList
+- XOR linked list
+- Zipper
+- Doubly connected edge list
+- Difference list
+- Free list

@@ -44,8 +44,8 @@
 
 ###Binary trees
 - AA tree
-- AVL tree
-- Binary search tree
+- [AVL tree](https://github.com/akul08/dswiki/blob/master/non-linear-data-structure/trees/avl.cpp)
+- [Binary search tree](https://github.com/akul08/dswiki/blob/master/non-linear-data-structure/trees/bst.cpp)
 - Binary tree
 - Cartesian tree
 - Order statistic tree

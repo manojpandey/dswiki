@@ -27,14 +27,14 @@
 - Variable-length array
 
 ###Lists
-- Doubly linked list
+- Doubly linked list - [C](https://github.com/manojpandey/dswiki/blob/master/linear-data-structures/lists/doubly-linked-list.c), [C++](https://github.com/manojpandey/dswiki/blob/master/linear-data-structures/lists/doubly-linked-list.cpp)
 - [Array list](https://github.com/manojpandey/dswiki/blob/master/linear-data-structures/lists/array-list.cpp)
-- Linked list
+- Linked list - [C](https://github.com/manojpandey/dswiki/blob/master/linear-data-structures/lists/singly-linked-list.c), [C++](https://github.com/manojpandey/dswiki/blob/master/linear-data-structures/lists/singly-linked-list.cpp)
 - Self-organizing list
 - Skip list
 - Unrolled linked list
 - VList
-- XOR linked list
+- [XOR linked list](https://github.com/manojpandey/dswiki/blob/master/linear-data-structures/lists/xor-linked-list.cpp)
 - Zipper
 - Doubly connected edge list
 - Difference list

@@ -1,0 +1,21 @@
+#Binary trees
+- AA tree
+- [AVL tree](https://github.com/akul08/dswiki/blob/master/non-linear-data-structure/trees/avl.cpp)
+- [Binary search tree](https://github.com/akul08/dswiki/blob/master/non-linear-data-structure/trees/bst.cpp)
+- Binary tree
+- Cartesian tree
+- Order statistic tree
+- Pagoda
+- Randomized binary search tree
+- Red-black tree
+- Rope
+- Scapegoat tree
+- Self-balancing binary search tree
+- Splay tree
+- T-tree
+- Tango tree
+- Threaded binary tree
+- Top tree
+- Treap
+- WAVL tree
+- Weight-balanced tree

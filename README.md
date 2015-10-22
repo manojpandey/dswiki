@@ -40,7 +40,7 @@
 - Difference list
 - Free list
 
-##Tree
+##Trees
 
 ###Binary trees
 - AA tree
@@ -167,7 +167,7 @@
 - Expression tree
 - Log-structured merge-tree
 
-###Hashes
+##Hashes
 - Bloom filter
 - Count-Min sketch
 - Distributed hash table
@@ -185,7 +185,7 @@
 - Quotient filter
 - Ctrie
 
-###Graphs
+##Graphs
 - Graph
 - Adjacency list
 - Adjacency matrix
@@ -200,7 +200,7 @@
 - Multigraph
 - Hypergraph
 
-###Other
+##Other
 - Lightmap
 - Winged edge
 - Doubly connected edge list

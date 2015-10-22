@@ -1,0 +1,28 @@
+#Space-partitioning trees
+######These are data structures used for space partitioning or binary space partitioning.
+- Segment tree
+- Interval tree
+- Range tree
+- Bin
+- Kd-tree
+- Implicit kd-tree
+- Min/max kd-tree
+- Adaptive k-d tree
+- Quadtree
+- Octree
+- Linear octree
+- Z-order
+- UB-tree
+- R-tree
+- R+ tree
+- R* tree
+- Hilbert R-tree
+- X-tree
+- Metric tree
+- Cover tree
+- M-tree
+- VP-tree
+- BK-tree
+- Bounding interval hierarchy
+- BSP tree
+- Rapidly exploring random tree

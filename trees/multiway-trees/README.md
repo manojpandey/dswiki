@@ -1,0 +1,15 @@
+#Multiway trees
+- Ternary tree
+- K-ary tree
+- And–or tree
+- (a,b)-tree
+- Link/cut tree
+- SPQR-tree
+- Spaghetti stack
+- Disjoint-set data structure
+- Fusion tree
+- Enfilade
+- Exponential tree
+- Fenwick tree
+- Van Emde Boas tree
+- Rose tree
